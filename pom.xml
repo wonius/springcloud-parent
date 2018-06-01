@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>eureka-server</module>
-        <module>service</module>
+        <module>client</module>
     </modules>
     <packaging>pom</packaging>
 
